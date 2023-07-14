@@ -31,8 +31,8 @@ public class Main {
                 }
             }
         }
-        if(letters.length()==1 && letters.equals("w"))
-            cnt+=1;
+        if (letters.length() == 1 && letters.equals("w"))
+            cnt += 1;
         return cnt;
     }
 
